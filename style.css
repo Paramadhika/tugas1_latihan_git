@@ -60,3 +60,23 @@ body{
 .copy-container span{
     color: #ff4a4a;
 }
+
+.footer{
+    background-color: #ceccf3;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer .flogo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer .flist{
+    float: right;
+}
+
+.footer .flist li{
+    list-style: none;
+    padding-bottom: 20px;
+}
