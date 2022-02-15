@@ -1,0 +1,29 @@
+body{
+    font-family: "Avenir Next";
+}
+
+.header{
+    background: #26d0c9;
+    height: 90px;
+}
+
+.header .hlogo{
+    position: relative;
+    padding: 20px 40px;
+    font-size: 45px;
+    float: left;
+}
+
+.header .vpadding{
+    position: absolute;
+    color: #00FFFF;
+    background: #00FFFF;
+    font-size: 45px;
+    padding: 20px 40px;
+}
+
+.header .hlist li{
+    list-style: none;
+    float: left;
+    padding :35px 20px;
+}
